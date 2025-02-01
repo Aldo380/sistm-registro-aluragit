@@ -8,3 +8,5 @@ DownloadInfo
 - Ejecutar el Sistema, debes poner:
 
 - npm install...
+
+Sistema de registro 2
